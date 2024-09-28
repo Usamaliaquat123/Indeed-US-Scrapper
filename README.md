@@ -148,7 +148,3 @@ Some of the key insights derived from the analysis include:
 
 Contributions to this project are welcome. If you have any suggestions, improvements, or additional insights to share, please open an issue or submit a pull request.
 
-
-## Authors
-
-- [@Yeasirzawad](https://github.com/Yeasirzawad)
